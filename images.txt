@@ -6,3 +6,4 @@ gdy666/lucky
 xhofe/alist
 hslr/sun-panel
 jeessy/ddns-go
+lobehub/lobe-chat
