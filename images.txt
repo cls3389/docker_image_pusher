@@ -8,3 +8,4 @@ hslr/sun-panel
 jeessy/ddns-go
 lobehub/lobe-chat
 6053537/portainer-ce
+zerotier/zerotier-synology
